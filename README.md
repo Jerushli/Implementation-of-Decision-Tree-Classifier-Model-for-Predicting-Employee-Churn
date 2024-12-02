@@ -32,6 +32,7 @@ Developed by: JERUSHLIN JOSE JB
 RegisterNumber: 212222240039
 ```
 ```python
+08 employee churn
 import pandas as pd
 data = pd.read_csv("C:/Users/admin/Downloads/Employee.csv")
 data
